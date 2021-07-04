@@ -3,7 +3,7 @@ Blog about different frameworks using Django
 
 <img alt="Django" src="https://img.shields.io/badge/Django-3.0%20RELEASE-purple">
 
-## Build With
+## Built With
 
 * [Bootstrap 4](https://getbootstrap.com/) - HTML, CSS and JS library
 * [Django 3.0](https://www.djangoproject.com/) - Python Web Framework
