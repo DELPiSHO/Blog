@@ -26,3 +26,4 @@ Blog about different frameworks using Django
 :heavy_check_mark: Comments <br>
 :soon: Make backend using Django Rest Framework <br>
 :soon: Remake frontend using VueJs or NuxtJs <br>
+
