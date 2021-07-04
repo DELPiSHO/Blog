@@ -11,18 +11,18 @@ Blog about different frameworks using Django
 
 ## ToDo List
 
-:heavy_check_mark: Bootstrap
-:heavy_check_mark: Configure Django
-:heavy_check_mark: Main Page
-:heavy_check_mark: Admin Page
-:heavy_check_mark: Post Page
-:heavy_check_mark: Sign Up
-:heavy_check_mark: Sign In
-:heavy_check_mark: Logout
-:heavy_check_mark: Contact Page
-:heavy_check_mark: Email service
-:heavy_check_mark: Search and search results page
-:heavy_check_mark: Hashtags and last posts
-:heavy_check_mark: Comments
-:soon: Make backend using Django Rest Framework
-:soon: Remake frontend using VueJs or NuxtJs
+:heavy_check_mark: Bootstrap <br>
+:heavy_check_mark: Configure Django <br>
+:heavy_check_mark: Main Page <br>
+:heavy_check_mark: Admin Page <br>
+:heavy_check_mark: Post Page <br>
+:heavy_check_mark: Sign Up <br>
+:heavy_check_mark: Sign In <br>
+:heavy_check_mark: Logout <br>
+:heavy_check_mark: Contact Page <br>
+:heavy_check_mark: Email service <br>
+:heavy_check_mark: Search and search results page <br>
+:heavy_check_mark: Hashtags and last posts <br>
+:heavy_check_mark: Comments <br>
+:soon: Make backend using Django Rest Framework <br>
+:soon: Remake frontend using VueJs or NuxtJs <br>
